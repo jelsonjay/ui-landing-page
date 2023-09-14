@@ -1,2 +1,2 @@
 # ui-landing-page
-Created with CodeSandbox
+UI Landing Page Designer
